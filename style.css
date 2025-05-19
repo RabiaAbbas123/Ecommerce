@@ -1,0 +1,140 @@
+
+.navbar-toggler{
+    color: black;
+}
+.abc{ 
+    margin-top : 50px;
+    
+}
+
+
+.icon{ margin-top: 50px;
+}
+.icon-container {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 30px;
+margin-right: 80px;
+
+}
+#color{
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+    padding-bottom: 70px;
+}
+.color1{
+    background-image: url(background.jpg);
+        background-attachment: fixed;
+        padding-top: 50px;
+        padding-bottom: 50px; 
+}
+.color2{
+    background-image: url(background.jpg);
+        background-attachment: fixed;
+        text-align: center;
+        font-size: xx-large;
+        padding-top: 50px;
+        padding-bottom: 50px;
+}
+.color2 p{
+    color: gray;
+}
+.color2 h6{
+    font-size: small;
+    color: gray;
+}
+.color3 p{
+    color: gray;
+}
+.background{
+    background-image: url(background.jpg);
+    padding-bottom: 10px;
+        background-attachment: fixed;
+        text-align: center;
+}
+.color4{
+    background-image: url(background.jpg);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+        background-attachment: fixed;
+        text-align: center;
+}
+#xyz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+
+  }
+
+  .color4 {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .color4 h4 {
+    margin-bottom: 1rem;
+  }
+
+  .color4 input[type="email"] {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+
+  .color4 .button {
+    background-color: black;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border:  1px solid black;
+  }
+
+  .color4 .button:hover {
+    background-color: white;
+    color: black;
+  }
+
+  @media (max-width: 600px) {
+    .color4 {
+      padding: 1.5rem 1rem;
+    }
+  }
+.btn button{
+  
+    margin-bottom: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    border: 1px solid black;
+}
+.btn button:hover{
+    background-color: white;
+    color: black;
+}
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border-color: 1px solid black;
+    transition-duration: 0.4s;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
